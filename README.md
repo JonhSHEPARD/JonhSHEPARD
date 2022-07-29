@@ -1,12 +1,6 @@
 <!--
 **JonhSHEPARD/JonhSHEPARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p align="center">
-  <a align="center" href="https://jonhshepard.ovh/">
-    <img src="https://raw.githubusercontent.com/JonhSHEPARD/JonhSHEPARD/main/jonhshepard.png">
-  </a>
-</p>
-
 Welcome on my Github profile :wave:
 
 My tools and OS :
